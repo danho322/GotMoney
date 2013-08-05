@@ -1,0 +1,347 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* MakeItRain2AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* MakeItRain2AppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* MakeItRain2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* MakeItRain2ViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* MakeItRain2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* MakeItRain2ViewController.m */; };
+		8904F991112FAE2400A7EC6E /* 49.png in Resources */ = {isa = PBXBuildFile; fileRef = 8904F990112FAE2400A7EC6E /* 49.png */; };
+		890AC12E0F8C5B95004275A7 /* 01 stack.png in Resources */ = {isa = PBXBuildFile; fileRef = 890AC12D0F8C5B95004275A7 /* 01 stack.png */; };
+		890AC1320F8C5BF3004275A7 /* 01 dollar A.png in Resources */ = {isa = PBXBuildFile; fileRef = 890AC1310F8C5BF3004275A7 /* 01 dollar A.png */; };
+		890AC1B70F8C5E24004275A7 /* 48.png in Resources */ = {isa = PBXBuildFile; fileRef = 890AC1810F8C5E24004275A7 /* 48.png */; };
+		890AC1BF0F8C5E24004275A7 /* 40.png in Resources */ = {isa = PBXBuildFile; fileRef = 890AC1890F8C5E24004275A7 /* 40.png */; };
+		890AC1C70F8C5E24004275A7 /* 32.png in Resources */ = {isa = PBXBuildFile; fileRef = 890AC1910F8C5E24004275A7 /* 32.png */; };
+		890AC1CD0F8C5E24004275A7 /* 26.png in Resources */ = {isa = PBXBuildFile; fileRef = 890AC1970F8C5E24004275A7 /* 26.png */; };
+		890AC1DE0F8C5E24004275A7 /* 02.png in Resources */ = {isa = PBXBuildFile; fileRef = 890AC1A80F8C5E24004275A7 /* 02.png */; };
+		890AC1DF0F8C5E24004275A7 /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 890AC1A90F8C5E24004275A7 /* 10.png */; };
+		890AC1E20F8C5E24004275A7 /* 18.png in Resources */ = {isa = PBXBuildFile; fileRef = 890AC1AC0F8C5E24004275A7 /* 18.png */; };
+		893D19920F78A19E00AFCBBE /* swoosh.wav in Resources */ = {isa = PBXBuildFile; fileRef = 893D19910F78A19E00AFCBBE /* swoosh.wav */; };
+		893D19A80F78A2C000AFCBBE /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 893D19A70F78A2C000AFCBBE /* AudioToolbox.framework */; };
+		893FCEBF104253C70013A669 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 893FCEBE104253C70013A669 /* Icon.png */; };
+		899351DD10BA42D800EACBF5 /* 55.png in Resources */ = {isa = PBXBuildFile; fileRef = 899351DC10BA42D800EACBF5 /* 55.png */; };
+		89C1939C104E3B6900353BDF /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 89C1939B104E3B6900353BDF /* Default.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* MakeItRain2AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MakeItRain2AppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* MakeItRain2AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MakeItRain2AppDelegate.m; sourceTree = "<group>"; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* MakeItRain2ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MakeItRain2ViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* MakeItRain2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MakeItRain2ViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* MakeItRain2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MakeItRain2ViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* MakeItRain2_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MakeItRain2_Prefix.pch; sourceTree = "<group>"; };
+		8904F990112FAE2400A7EC6E /* 49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 49.png; sourceTree = "<group>"; };
+		890AC12D0F8C5B95004275A7 /* 01 stack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "01 stack.png"; sourceTree = "<group>"; };
+		890AC1310F8C5BF3004275A7 /* 01 dollar A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "01 dollar A.png"; sourceTree = "<group>"; };
+		890AC1810F8C5E24004275A7 /* 48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 48.png; sourceTree = "<group>"; };
+		890AC1890F8C5E24004275A7 /* 40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 40.png; sourceTree = "<group>"; };
+		890AC1910F8C5E24004275A7 /* 32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 32.png; sourceTree = "<group>"; };
+		890AC1970F8C5E24004275A7 /* 26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 26.png; sourceTree = "<group>"; };
+		890AC1A80F8C5E24004275A7 /* 02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 02.png; sourceTree = "<group>"; };
+		890AC1A90F8C5E24004275A7 /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		890AC1AC0F8C5E24004275A7 /* 18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 18.png; sourceTree = "<group>"; };
+		893D19910F78A19E00AFCBBE /* swoosh.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = swoosh.wav; sourceTree = "<group>"; };
+		893D19A70F78A2C000AFCBBE /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = /System/Library/Frameworks/AudioToolbox.framework; sourceTree = "<absolute>"; };
+		893FCEBE104253C70013A669 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		899351DC10BA42D800EACBF5 /* 55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 55.png; sourceTree = "<group>"; };
+		89C1939B104E3B6900353BDF /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		89E993DC11379BAA009A8959 /* MakeItRain2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MakeItRain2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				893D19A80F78A2C000AFCBBE /* AudioToolbox.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* MakeItRain2AppDelegate.h */,
+				1D3623250D0F684500981E51 /* MakeItRain2AppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* MakeItRain2ViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* MakeItRain2ViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				89E993DC11379BAA009A8959 /* MakeItRain2.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* MakeItRain2_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8904F990112FAE2400A7EC6E /* 49.png */,
+				890AC12D0F8C5B95004275A7 /* 01 stack.png */,
+				893FCEBE104253C70013A669 /* Icon.png */,
+				890AC1310F8C5BF3004275A7 /* 01 dollar A.png */,
+				893D19910F78A19E00AFCBBE /* swoosh.wav */,
+				899351DC10BA42D800EACBF5 /* 55.png */,
+				89C1939B104E3B6900353BDF /* Default.png */,
+				890AC1810F8C5E24004275A7 /* 48.png */,
+				890AC1890F8C5E24004275A7 /* 40.png */,
+				890AC1910F8C5E24004275A7 /* 32.png */,
+				890AC1970F8C5E24004275A7 /* 26.png */,
+				890AC1A80F8C5E24004275A7 /* 02.png */,
+				890AC1A90F8C5E24004275A7 /* 10.png */,
+				890AC1AC0F8C5E24004275A7 /* 18.png */,
+				2899E5210DE3E06400AC0155 /* MakeItRain2ViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				893D19A70F78A2C000AFCBBE /* AudioToolbox.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* MakeItRain2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "MakeItRain2" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MakeItRain2;
+			productName = MakeItRain2;
+			productReference = 89E993DC11379BAA009A8959 /* MakeItRain2.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MakeItRain2" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* MakeItRain2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* MakeItRain2ViewController.xib in Resources */,
+				893D19920F78A19E00AFCBBE /* swoosh.wav in Resources */,
+				890AC12E0F8C5B95004275A7 /* 01 stack.png in Resources */,
+				890AC1320F8C5BF3004275A7 /* 01 dollar A.png in Resources */,
+				890AC1B70F8C5E24004275A7 /* 48.png in Resources */,
+				890AC1BF0F8C5E24004275A7 /* 40.png in Resources */,
+				890AC1C70F8C5E24004275A7 /* 32.png in Resources */,
+				890AC1CD0F8C5E24004275A7 /* 26.png in Resources */,
+				890AC1DE0F8C5E24004275A7 /* 02.png in Resources */,
+				890AC1DF0F8C5E24004275A7 /* 10.png in Resources */,
+				890AC1E20F8C5E24004275A7 /* 18.png in Resources */,
+				893FCEBF104253C70013A669 /* Icon.png in Resources */,
+				89C1939C104E3B6900353BDF /* Default.png in Resources */,
+				899351DD10BA42D800EACBF5 /* 55.png in Resources */,
+				8904F991112FAE2400A7EC6E /* 49.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* MakeItRain2AppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* MakeItRain2ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Daniel Ho (Z839BR7EUA)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MakeItRain2_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				PRODUCT_NAME = MakeItRain2;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "767CB5F1-22AD-4C54-AF36-58B6BC6E2F48";
+				SDKROOT = iphoneos3.0;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MakeItRain2_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				PRODUCT_NAME = MakeItRain2;
+			};
+			name = Release;
+		};
+		890E3CDB11B4AEF100F90A18 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				PRODUCT_NAME = "Got Money?";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos2.2.1;
+			};
+			name = Distribution;
+		};
+		890E3CDC11B4AEF100F90A18 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Worthless Apps";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MakeItRain2_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				PRODUCT_NAME = MakeItRain2;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "58F22AC5-7097-4A10-9031-C590CEFF5911";
+			};
+			name = Distribution;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				PRODUCT_NAME = "Got Money?";
+				SDKROOT = iphoneos2.2.1;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				PRODUCT_NAME = "Got Money?";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos2.2.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "MakeItRain2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				890E3CDC11B4AEF100F90A18 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MakeItRain2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				890E3CDB11B4AEF100F90A18 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
